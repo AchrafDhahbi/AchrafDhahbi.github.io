@@ -45,8 +45,8 @@ footer p{
 
 .btn-group button {
 	background-color: #ffffff;
-	border: 1px solid #a6dcef;
-	color: #a6dcef;
+	border: 1px solid #0dcaf0;
+	color: #0dcaf0;
 	padding: 10px 24px; /* Some padding */
 	cursor: pointer; /* Pointer/hand icon */
 	float: left; /* Float the buttons side by side */
@@ -65,7 +65,7 @@ footer p{
   
   /* Add a background color on hover */
 .btn-group button:hover {
-	background-color: #a6dcef;
+	background-color: #0dcaf0;
 	color: black;
   }
 
