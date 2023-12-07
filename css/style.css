@@ -13,6 +13,9 @@
 
 }
 
+.navbar-inner {
+    background:transparent;
+}
 
 .horizontal-card-img img{
 	width: 100%;
