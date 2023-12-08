@@ -16,8 +16,7 @@
 #nav1
 {  
     background-color:#2b5574; /*whichever you want*/
-    opacity: 0.5; 
-    filter:(opacity=50);       
+    opacity: 0.8; 
 }
 
 .navbar-inner {
