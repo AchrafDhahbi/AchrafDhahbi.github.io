@@ -16,7 +16,7 @@
 #nav1
 {  
     background-color:#2b5574; /*whichever you want*/
-    opacity: 0.55; 
+    opacity: 0.62; 
 }
 
 .navbar-inner {
@@ -54,8 +54,8 @@ footer p{
 
 .btn-group button {
 	background-color: transparent;
-	border: 1px solid #0dcaf0;
-	color: #0dcaf0;
+	border: 1px solid #2b5574;
+	color: #2b5574;
 	padding: 10px 24px; /* Some padding */
 	cursor: pointer; /* Pointer/hand icon */
 	float: left; /* Float the buttons side by side */
@@ -74,8 +74,8 @@ footer p{
   
   /* Add a background color on hover */
 .btn-group button:hover {
-	background-color: #0dcaf0;
-	color: black;
+	background-color: #2b5574;
+	color: white;
   }
 
 
