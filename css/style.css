@@ -75,6 +75,7 @@ footer p{
   /* Add a background color on hover */
 .btn-group button:hover {
 	background-color: #2b5574;
+	border: 1px solid #2b5574;
 	color: white;
   }
 
