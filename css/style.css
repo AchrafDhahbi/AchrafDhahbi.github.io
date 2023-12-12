@@ -52,6 +52,8 @@ footer p{
 	margin-bottom: 0;
 }
 
+li {cursor: pointer}
+
 .btn-group button {
 	background-color: transparent;
 	border: 1px solid #2b5574;
